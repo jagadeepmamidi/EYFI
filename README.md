@@ -6,7 +6,7 @@ Interactive leaderboard design for [EYFI Challenge](https://eyfichallenge.com/) 
 
 ## Live demo
 
-https://eyfi-leaderboard-xi.vercel.app
+https://eyfi-wave01.vercel.app
 
 ## Features
 
@@ -32,6 +32,19 @@ npm run dev
 ```
 
 Open http://localhost:3000.
+
+## Project structure
+
+```
+src/
+  app/              # Next.js routes
+  components/
+    eyfi/           # Site chrome (marquee, header, footer)
+    leaderboard/    # Leaderboard UI
+  data/             # Mock leaderboard data
+  lib/              # Prize helpers & utilities
+public/images/      # EYFI logo
+```
 
 ## Author
 
