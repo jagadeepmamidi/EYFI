@@ -1,4 +1,4 @@
-﻿# Dependencies
+# Dependencies
 node_modules/
 .pnp
 .pnp.js
@@ -33,3 +33,4 @@ Thumbs.db
 
 # Local dev template (not part of submission)
 ai-website-cloner-template/
+eyfi-leaderboard/

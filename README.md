@@ -1,16 +1,37 @@
-# EYFI
+# EYFI Wave 01 Leaderboard
 
-Assignment repository for **jagadeep**.
+**Assignment submission by jagadeep**
 
-## Contents
-
-| Folder | Description |
-|--------|-------------|
-| [eyfi-leaderboard/](eyfi-leaderboard/) | Wave 01 leaderboard — EYFI assignment submission |
+Interactive leaderboard design for [EYFI Challenge](https://eyfichallenge.com/) — Wave 01, ranked by verified income.
 
 ## Live demo
 
-https://eyfi-leaderboard-jagadeeps-projects-10f14bee.vercel.app
+https://eyfi-leaderboard-xi.vercel.app
+
+## Features
+
+- On-brand EYFI chrome (marquee, nav, footer)
+- Day 18/30 live wave progress
+- People · Teams · Campuses tabs
+- Top-3 podium with projected prize amounts
+- Search + hustle filter chips
+- Mock data using real participant names from the EYFI site
+
+## Tech stack
+
+- Next.js 16 (App Router)
+- React 19 + TypeScript
+- Tailwind CSS v4
+- shadcn/ui
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+Open http://localhost:3000.
 
 ## Author
 
