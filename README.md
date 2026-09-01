@@ -1,10 +1,12 @@
-# EYFI
+﻿# EYFI
 
-Project by **jagadeep**.
+Assignment repository for **jagadeep**.
 
-## About
+## Contents
 
-EYFI is a new project. This repository will hold the source code and documentation as the work grows.
+| Folder | Description |
+|--------|-------------|
+| [`eyfi-leaderboard/`](eyfi-leaderboard/) | Wave 01 leaderboard — EYFI assignment submission |
 
 ## Author
 
