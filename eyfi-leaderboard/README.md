@@ -1,4 +1,4 @@
-﻿# EYFI Wave 01 Leaderboard
+# EYFI Wave 01 Leaderboard
 
 **Assignment submission by jagadeep**
 
@@ -6,7 +6,7 @@ Interactive leaderboard design for [EYFI Challenge](https://eyfichallenge.com/) 
 
 ## Live demo
 
-Deployed on Vercel (link added after deploy).
+https://eyfi-leaderboard-jagadeeps-projects-10f14bee.vercel.app
 
 ## Features
 
@@ -32,7 +32,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Open http://localhost:3000.
 
 ## Author
 
